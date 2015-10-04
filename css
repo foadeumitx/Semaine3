@@ -1,0 +1,39 @@
+h1{
+    color:#708090;
+    font-family:Verdana;
+    padding:23px 5px 23px 5px;
+    text-align:center;
+}
+h2{
+    color:#708090;
+    font-family:Verdana;
+   text-align:center;
+}
+background{
+    color:#F5FFFA;
+}
+h3{
+    color:#696969;
+    font-family:Arial;
+    font-size:14px;
+    margin-left:10px;
+}
+h5{
+    color:#A9A9A9;
+    font-family:Arial;
+    font-size:11px;
+    text-align:center;
+}
+ul{
+    color:#808080;
+    font-weight:bold;
+    font-family:Arial;
+    font-size:12px;
+}
+li{
+    color:#808080;
+    font-size:10px;
+    font-family:Arial;
+    list-style-type:disc;
+    margin-left:60px;
+}
