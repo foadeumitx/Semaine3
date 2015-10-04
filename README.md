@@ -1,6 +1,5 @@
 # Semaine3
 
-<!DOCTYPE html>
 <html>
     <link rel="stylesheet" href="cv.css" type="text/css" />
     <head>
@@ -16,50 +15,30 @@
         <li>Lancement et gestion de la marketplace Menlook pour la marque CELIOCLUB</li>
         <li>Gestion des échantillons produits et shooting</li>
         <li>Brief à l'agence digitale et validation : homepage, landing page, bannières, newsletter</li>
-
         <ul>Responsable e-commerce - SEBH // 04/2014 - 06/2014</ul>
-        <li>Lancement et développement d'une boutique en ligne de prêt-à-porter sous Prestashop 1.6
-</li>
-        
+        <li>Lancement et développement d'une boutique en ligne de prêt-à-porter sous Prestashop 1.6</li>
         <ul>Business Development manager - Projet Keystone // 09/2013 - 11/2013</ul>
-        <li>Business model, étude de marché et stratégie commerciale et marketing
-</li>
-        
+        <li>Business model, étude de marché et stratégie commerciale et marketing</li>
         <ul>Chef de produit e-commerce - RPCM Conseil // 02/2011 - 12/201</ul>
-        <li>Business model, étude de marché et stratégie commerciale et marketing
-</li>
-        <li>Relation avec les sites partenaires et suivi des cahiers des charges.
-</li>
-<li>Animation des sites: mise à jour du contenu, création de bannières et newsletters
-</li>
+        <li>Business model, étude de marché et stratégie commerciale et marketing</li>
+        <li>Relation avec les sites partenaires et suivi des cahiers des charges.</li>
+<li>Animation des sites: mise à jour du contenu, création de bannières et newsletters</li>
         <ul>Assistance e-commerce - Françoise Saget (Alternance) // 04/2009 - 09/2009</ul>
-        <li>Gestion de projet : refonte du site e-commerce en 2009 (ergonomie, navigation, recettage)
-</li>
-     <li>Gestion commerciale du site: définir les offres promotionnelle
-</li>   
-<li>Gestion de la relation avec l’agence de communication et les partenaires extérieurs
-</li>
+        <li>Gestion de projet : refonte du site e-commerce en 2009 (ergonomie, navigation, recettage)</li>
+     <li>Gestion commerciale du site: définir les offres promotionnelle</li>   
+<li>Gestion de la relation avec l’agence de communication et les partenaires extérieurs</li>
         <ul>Chef de projet marketing Junior - Airtag (Alternance) // 01/2009 - 03/2009</ul>
-        <li>Etude de marché, étude terrain et Veille concurrentielle
-</li>
-        <li>Prospection enseignes et marques et réalisation de propositions commerciales
-</li>
-<li>Création de story-board parcours clients pour les marque
-</li>
+        <li>Etude de marché, étude terrain et Veille concurrentielle</li>
+        <li>Prospection enseignes et marques et réalisation de propositions commerciales</li>
+<li>Création de story-board parcours clients pour les marque</li>
         <ul>Chef de projet mobile junior - Fnac (Alternance) // 01/2008 - 12/2008</ul>
-        <li>Gestion des services mobiles Fnac.com, Fnac music et Fnac sonneries.
-</li>
-<li>Elaboration des opérations marketing et campagnes promotionnelles sur les services mobiles
-</li>        
-        <li>Mise en place de jeux concours avec les majors (dotations)
-</li>
+        <li>Gestion des services mobiles Fnac.com, Fnac music et Fnac sonneries.</li>
+<li>Elaboration des opérations marketing et campagnes promotionnelles sur les services mobiles</li>        
+        <li>Mise en place de jeux concours avec les majors (dotations)</li>
         <ul>Chef de produit mobile junior - Cityneo (Alternance) / 01/2007 - 12/2007</ul>
-   <li>Gestion de projet : lancement de A à Z d’un nouveau site mobile (du brainstorming à l’animation)
-</li>
-<li>Benchmark: Identification et élaboration de nouveaux sites mobiles à fort potentiel sur le Wap
-</li>
-   <li>Création de Story-Board et de logo.
-</li>
+   <li>Gestion de projet : lancement de A à Z d’un nouveau site mobile (du brainstorming à l’animation)</li>
+<li>Benchmark: Identification et élaboration de nouveaux sites mobiles à fort potentiel sur le Wap</li>
+   <li>Création de Story-Board et de logo.</li>
         <h3>Formations</h3>
         <ul>Master 2 : Gestion des entreprises et administration option Marketing et management des activités : 2009</ul>
         <ul>BTS Management des unités commerciales : 2006</ul>
